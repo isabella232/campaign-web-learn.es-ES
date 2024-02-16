@@ -4,7 +4,7 @@ description: Adobe Campaign ofrece una plataforma para diseñar experiencias en 
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 24deab035cd5610129f3bb6fe623b7cab611a107
+source-git-commit: 608accefe961294852839ccdf8b64150e77af1b1
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 44%
@@ -26,4 +26,14 @@ Se añadirán nuevos vídeos de forma regular.
 > Consulte la
 > 
 > * [Tutoriales de la consola del cliente de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) para obtener instrucciones sobre la consola de Campaign
-> * [Documentación web de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.htm) para obtener más información sobre la interfaz de usuario web de Campaign.
+> * [Documentación web de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) para obtener más información sobre la interfaz de usuario web de Campaign.
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+</div>
