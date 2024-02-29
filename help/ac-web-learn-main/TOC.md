@@ -5,10 +5,10 @@ user-guide-title: Interfaz de usuario de Adobe Campaign Web
 user-guide-description: Aprenda a utilizar las funciones y capacidades de la consola del cliente de Adobe Campaign Web.
 breadcrumb-title: 'Interfaz de usuario web: Tutoriales'
 auto-video-transcripts: true
-source-git-commit: 29188c839c08ca46313c2d9ea1f50bee2083f14b
+source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 94%
+source-wordcount: '90'
+ht-degree: 88%
 
 ---
 
@@ -21,8 +21,12 @@ ht-degree: 94%
 + Mensajes y envíos {#messages-and-deliveries}
    + [Crear un envío de correo electrónico](/help/deliveries/create-an-email-delivery.md)
    + [Diseño de contenido de correo electrónico desde cero](/help/design-the-delivery/create-email-content-from-scratch.md)
+   + [Creación de un correo electrónico mediante un HTML de carga](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Creación y mejora de contenido de correo electrónico con el asistente de contenido](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
 + Perfiles y públicos {#profiles-and-audiences}
    + [Exploración de perfiles](/help/profiles-and-audiences/explore-profiles.md)
    + [Administrar y crear audiencias](/help/profiles-and-audiences/manage-and-build-audiences.md)
++ Flujos de trabajo {#workflows}
+   + [Crear un flujo de trabajo de segmentación](/help/workflows/create-a-targeting-workflow.md)
 + [Tutoriales de consola del cliente de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=es)
+
