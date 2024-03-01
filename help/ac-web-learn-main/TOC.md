@@ -5,7 +5,7 @@ user-guide-title: Interfaz de usuario de Adobe Campaign Web
 user-guide-description: Aprenda a utilizar las funciones y capacidades de la consola del cliente de Adobe Campaign Web.
 breadcrumb-title: 'Interfaz de usuario web: Tutoriales'
 auto-video-transcripts: true
-source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
+source-git-commit: 44ebccd588fbf418a2a1004078ca95d408d2f20c
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 68%
@@ -31,6 +31,6 @@ ht-degree: 68%
 + Flujos de trabajo {#workflows}
    + [Crear un flujo de trabajo de segmentación](/help/workflows/create-a-targeting-workflow.md)
 + [Tutoriales de consola del cliente de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=es)
-+ [Grabaciones de Experience League Live]{#exl-live-recordings}
++ Grabaciones de Experience League Live {#exl-live-recordings}
    + [Avance con la nueva interfaz de usuario web de Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)
 
